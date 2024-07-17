@@ -28,4 +28,4 @@ O FórumHub é uma API REST desenvolvida usando Spring Boot. Ele permite aos usu
 
 ## Autor
 
-Este projeto foi desenvolvido por Julio P Ferreira TI.
+Este projeto foi desenvolvido por Julio P Ferreira TI💻🖥️💾🖱️🚀🚀 .
