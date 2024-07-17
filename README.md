@@ -1,5 +1,4 @@
 ﻿# F-rum-Hub-Challenge-Back-End
-# FórumHub
 
 Bem-vindo ao FórumHub, um projeto de fórum desenvolvido como parte do Alura Challenge.
 
